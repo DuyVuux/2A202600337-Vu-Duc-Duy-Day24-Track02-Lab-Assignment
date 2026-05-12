@@ -1,0 +1,9 @@
+medviet-governance/.venv/
+.venv/
+medviet-governance/data/raw/
+medviet-governance/.vault_key
+.vault_key
+__pycache__/
+*.pyc
+.pytest_cache/
+*.zip
